@@ -22,3 +22,5 @@ document.getElementById("nameArray").innerText= array0fNames;
 arrayOfNubers.pop(0);
 arrayOfNubers.pop(1);
 document.getElementById("numberDat").textContent = arrayOfNubers;
+
+// This is correct. From Kenn
